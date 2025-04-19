@@ -14,3 +14,8 @@ sá., 19 de abr. de 2025  0:28:34:
  1 file changed, 1 insertion(+), 1 deletion(-)
  tests:  0|0
 b972bc5
+sá., 19 de abr. de 2025  0:29:12: 
+ hashmap.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ tests:  0|0
+65cb4c6
