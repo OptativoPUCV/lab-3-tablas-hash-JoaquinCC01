@@ -19,3 +19,9 @@ sá., 19 de abr. de 2025  0:29:12:
  1 file changed, 1 insertion(+), 1 deletion(-)
  tests:  0|0
 65cb4c6
+sá., 19 de abr. de 2025  0:30:43: 
+ hashmap.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ tests:  9|2
+total_score: 50/70
+ade0175
