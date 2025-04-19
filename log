@@ -1,0 +1,11 @@
+sá., 19 de abr. de 2025  0:27:49: 
+ hashmap.c | 40 ++++++++++++++++++++++++++++++++++------
+ 1 file changed, 34 insertions(+), 6 deletions(-)
+Compilation failed
+In file included from test.c:4:0:
+hashmap.c: In function 'insertMap':
+hashmap.c:43:44: error: implicit declaration of function 'enLarge' [-Werror=implicit-function-declaration]
+     if(map->size >= (map->capacity * 0.7)) enLarge(map);
+                                            ^~~~~~~
+cc1.exe: all warnings being treated as errors
+eeef3b7
